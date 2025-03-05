@@ -96,8 +96,8 @@ MonoBehaviour:
     y: 0
     width: 278.66666
     height: 558
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -282,7 +282,7 @@ MonoBehaviour:
   - {fileID: 14}
   - {fileID: 15}
   m_Selected: 0
-  m_LastSelected: 1
+  m_LastSelected: 0
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -577,7 +577,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000f661000092620000126200007664000058640000686300006a630000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -689,10 +689,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
+      scrollPos: {x: 0, y: 1052}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 1afbfffff85e0000
+      m_ExpandedIDs: 38c0ffff1afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1085,9 +1085,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 2636.9688, y: -950.579, z: 1830.69}
+    m_Target: {x: 337.46338, y: -1601.2498, z: 1036.0084}
     speed: 2
-    m_Value: {x: 2636.9688, y: -950.579, z: 1830.69}
+    m_Value: {x: 337.46338, y: -1601.2498, z: 1036.0084}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1133,20 +1133,20 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.1835402, y: -0.44854945, z: 0.09467107, w: -0.8696489}
+    m_Target: {x: -0.3730053, y: 0.42878005, z: -0.20018871, w: -0.79839855}
     speed: 2
-    m_Value: {x: -0.18439722, y: -0.44842422, z: 0.09511323, w: -0.8694061}
+    m_Value: {x: -0.3721137, y: 0.42887276, z: -0.19970948, w: -0.798571}
   m_Size:
-    m_Target: 1192.2168
+    m_Target: 1482.7103
     speed: 2
-    m_Value: 1140.8773
+    m_Value: 1552.5763
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 1.06047
-    m_SpeedNormalized: 0.53
+    m_Speed: 1.7001503
+    m_SpeedNormalized: 0.85000014
     m_SpeedMin: 0.001
     m_SpeedMax: 2
     m_EasingEnabled: 1
